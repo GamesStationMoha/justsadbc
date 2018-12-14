@@ -1,4 +1,4 @@
-token=process.env.token
+token=NTIzMTk5MzY3MDQyMTcwOTIz.DvWDAw.vi6G1r3aw6cwpcgPbXG2-Rr5II8
 owner=450973027853664256 
 prefix=p
 game=PureServer
