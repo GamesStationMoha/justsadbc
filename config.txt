@@ -1,6 +1,6 @@
 token=process.env.token
 owner=450973027853664256 
-prefix=1
+prefix=p
 game=PureServer
 stayinchannel=true
 songinstatus=false
